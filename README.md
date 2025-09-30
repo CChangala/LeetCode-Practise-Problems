@@ -7,8 +7,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0162-find-peak-element) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0162-find-peak-element) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
