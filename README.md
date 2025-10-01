@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -68,4 +69,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0645-set-mismatch) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
