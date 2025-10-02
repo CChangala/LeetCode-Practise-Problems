@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0392-is-subsequence) |
 ## Math
 |  |
