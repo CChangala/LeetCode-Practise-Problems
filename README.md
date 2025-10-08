@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0392-is-subsequence) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0078-subsets) |
