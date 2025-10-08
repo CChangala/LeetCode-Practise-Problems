@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0142-linked-list-cycle-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0020-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0226-invert-binary-tree) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0226-invert-binary-tree) |
@@ -199,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0226-invert-binary-tree) |
