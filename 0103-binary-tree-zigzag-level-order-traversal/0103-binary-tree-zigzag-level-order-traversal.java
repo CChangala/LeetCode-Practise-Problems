@@ -15,9 +15,9 @@
  */
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        List<List<Integer>> result = new ArrayList<>();
+        List<List<Integer>> res = new ArrayList<>();
         if(root == null){
-            return result;
+            return res;
         }
 
         Queue<TreeNode> q = new LinkedList<>();
@@ -25,24 +25,29 @@ class Solution {
         boolean right = true;
 
         while(!q.isEmpty()){
-            LinkedList<Integer> currentLevel = new LinkedList<>();
             int n = q.size();
-            for(int i = 0; i<n;i++){
+            LinkedList<Integer> list = new LinkedList<>();
+
+            for(int i = 0; i < n; i++){
                 TreeNode currentNode = q.poll();
-                if (right) currentLevel.addLast(currentNode.val);
-                else currentLevel.addFirst(currentNode.val);
-                if(currentNode.left != null ){
+                if(currentNode.left != null){
                     q.offer(currentNode.left);
                 }
                 if(currentNode.right != null){
                     q.offer(currentNode.right);
                 }
-                //currentLevel.add(currentNode.val);
+
+                if(right){
+                    list.addLast(currentNode.val);
+                }
+                else{
+                    list.addFirst(currentNode.val);
+                }
                 
             }
             right = !right;
-            result.add(currentLevel);
+            res.add(list);
         }
-        return result;
+        return res;
     }
 }
