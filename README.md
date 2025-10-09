@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0078-subsets) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0162-find-peak-element](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0041-first-missing-positive) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0268-missing-number) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -224,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
