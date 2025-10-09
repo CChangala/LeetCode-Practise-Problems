@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Design
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1035-cousins-in-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/1035-cousins-in-binary-tree) |
 ## Breadth-First Search
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1035-cousins-in-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
@@ -251,11 +255,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1035-cousins-in-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Divide and Conquer
 |  |
@@ -294,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 <!---LeetCode Topics End-->
