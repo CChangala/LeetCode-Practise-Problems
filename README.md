@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1035-cousins-in-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/1035-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1035-cousins-in-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/1127-last-stone-weight) |
 ## Merge Sort
@@ -285,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
