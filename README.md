@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0645-set-mismatch) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0443-string-compression) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1035-cousins-in-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/1035-cousins-in-binary-tree) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -233,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1035-cousins-in-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/1035-cousins-in-binary-tree) |
@@ -255,12 +260,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1035-cousins-in-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Divide and Conquer
