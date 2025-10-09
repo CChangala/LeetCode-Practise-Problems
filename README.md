@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/1127-last-stone-weight) |
 ## Binary Search
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/1127-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
