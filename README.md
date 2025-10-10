@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/1127-last-stone-weight) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Union Find
 |  |
 | ------- |
