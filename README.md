@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/1013-fibonacci-number) |
