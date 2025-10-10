@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0078-subsets) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0142-linked-list-cycle-ii) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0645-set-mismatch) |
