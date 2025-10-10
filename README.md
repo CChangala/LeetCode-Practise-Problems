@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0074-search-a-2d-matrix) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0392-is-subsequence) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0155-min-stack) |
@@ -353,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0200-number-of-islands) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
