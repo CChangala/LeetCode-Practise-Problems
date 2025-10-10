@@ -1,32 +1,44 @@
 class Solution {
     public boolean exist(char[][] board, String word) {
-        for (int i = 0; i < board.length; i++) {
-        for (int j = 0; j < board[0].length; j++) {
-            if (board("",board, word, i, j)) return true;
-        }
+       int rows = board.length, cols = board[0].length;
+
+        for (int r = 0; r < rows; r++) {
+            for (int c = 0; c < cols; c++) {
+                // start DFS when first char matches
+                if (find(board,"", word, r, c)) {
+                    return true;
+                }
+            }
         }
         return false;
-        }
-
-    public boolean board(String p,char[][] board, String word,int r , int c){
-        if (p.equals(word)) return true;
-        if (r < 0 || c < 0 || r >= board.length || c >= board[0].length) return false;
-        if (board[r][c] == '#' || p.length() >= word.length()) return false;
-
-        char ch = board[r][c];
-        if (ch != word.charAt(p.length())) return false;
-
-        board[r][c] = '#';
-
-        boolean down = board(p+ch,board,word,r+1,c);
-        boolean right = board(p+ch,board,word,r,c+1);
-        boolean up=board(p+ch,board,word,r-1,c);
-        boolean below=board(p+ch,board,word,r,c-1);
-        board[r][c] = ch;
-        return down || right || up || below;
-
     }
 
+    public boolean find(char[][] board,String p,String word, int r , int c){
+        int row = board.length;
+        int col = board[0].length;
+        //if we traverse the whole board and didn't find
+        if(r<0 || r>=row || c<0 || c>=col){
+            return false;
+        }
+        if (board[r][c] == '#') return false;
 
+        p = p + board[r][c];
+        if(!word.startsWith(p)){
+            return false;
+        }
+        if (p.equals(word)) {
+            return true;
+        }
+        char ch = board[r][c];
+        board[r][c] = '#';
+
+        boolean found = find(board, p, word, r+1,c) || find(board, p, word, r-1,c)
+        || find(board, p, word, r,c+1) || find(board, p, word, r,c-1);
+
+        board[r][c] = ch;
+
+        return found;
+        
+    }
     
 }
