@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0162-find-peak-element](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0200-number-of-islands) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0257-binary-tree-paths) |
 ## Matrix
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0200-number-of-islands) |
 ## Linked List
 |  |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
