@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0162-find-peak-element](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0200-number-of-islands) |
 ## Linked List
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -317,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
