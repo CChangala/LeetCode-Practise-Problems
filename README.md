@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0138-copy-list-with-random-pointer](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0268-missing-number) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0138-copy-list-with-random-pointer](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
