@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0322-coin-change) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0494-target-sum](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0645-set-mismatch) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0494-target-sum) |
 ## Matrix
 |  |
 | ------- |
