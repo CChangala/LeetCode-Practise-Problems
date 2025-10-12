@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0322-coin-change) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0322-coin-change](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/1035-cousins-in-binary-tree) |
