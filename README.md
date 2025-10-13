@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0443-string-compression) |
+| [0606-construct-string-from-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0778-reorganize-string](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0778-reorganize-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Math
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
