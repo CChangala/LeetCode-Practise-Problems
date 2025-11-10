@@ -12,18 +12,15 @@ class Solution {
         }
 
         for(char c: t.toCharArray()){
-            if(map.containsKey(c)){
-                map.put(c,map.getOrDefault(c,0) - 1);
-                if(map.get(c)<=0){
-                    map.remove(c);
-                }
+            if (!map.containsKey(c)) {
+                return false; // \U0001f9e0 key improvement
+            }
+
+            map.put(c, map.get(c) - 1);
+            if (map.get(c) == 0) {
+                map.remove(c);
             }
         }
-        int count = map.size();
-
-        if(count>0){
-            return false;
-        }
-        return true;
+        return map.isEmpty();
     }
 }
