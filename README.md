@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0303-range-sum-query-immutable) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Union Find
