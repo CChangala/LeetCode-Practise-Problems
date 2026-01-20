@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0948-sort-an-array) |
+| [0978-longest-turbulent-subarray](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0978-longest-turbulent-subarray) |
 | [1127-last-stone-weight](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/1127-last-stone-weight) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0494-target-sum) |
+| [0978-longest-turbulent-subarray](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0978-longest-turbulent-subarray) |
 | [1013-fibonacci-number](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0978-longest-turbulent-subarray](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/0978-longest-turbulent-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/CChangala/LeetCode-Practise-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Union Find
 |  |
