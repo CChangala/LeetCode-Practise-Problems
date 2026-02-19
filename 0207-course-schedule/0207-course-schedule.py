@@ -12,6 +12,7 @@ class Solution:
 
         #queue
         queue = deque()
+        order = []
 
         for i in range(numCourses):
             if indegree[i] == 0:
@@ -22,11 +23,13 @@ class Solution:
         while queue:
             node = queue.popleft()
             processed += 1
+            order.append(node)
             for neighbors in adj[node]:
                 indegree[neighbors] -= 1
                 if indegree[neighbors] == 0:
                     queue.append(neighbors)
         
+        print(order)
         return processed == numCourses
             
 
